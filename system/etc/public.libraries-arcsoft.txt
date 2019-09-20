@@ -1,0 +1,4 @@
+libarc_layer_sgl.arcsoft.so
+libArcSoft3DStickerEngine.arcsoft.so
+libArcSoftFaceAlignment.arcsoft.so
+libhigh_dynamic_range.arcsoft.so
